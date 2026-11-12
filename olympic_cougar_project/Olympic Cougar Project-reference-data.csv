@@ -1,0 +1,62 @@
+tag-id,animal-id,animal-taxon,deploy-on-date,deploy-off-date,animal-comments,animal-death-comments,animal-life-stage,animal-sex,attachment-type,deployment-comments,deployment-id,manipulation-type,tag-manufacturer-name,tag-model,tag-readout-method
+33441,Frankie,Puma concolor,2018-02-10 00:00:00.000,2019-04-04 00:00:00.000,,,disperser,m,collar,,Frankie_33441,none,Lotek,Lotek LiteTrack 420,satellite
+28360,Apollo,Puma concolor,2018-02-22 00:00:00.000,2019-07-04 23:59:59.000,,,adult,m,collar,,Apollo_28360,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+28361,Bramble,Puma concolor,2018-10-10 20:02:00.000,2020-01-29 22:00:00.000,,,adult,f,collar,,Bramble_28361,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+28358,Charlotte,Puma concolor,2018-10-19 07:00:00.000,2019-12-02 23:59:59.000,,,adult,f,collar,,Charlotte_28358,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+28362,Didi,Puma concolor,2018-10-22 00:00:00.000,2019-02-12 23:59:59.000,,Died of unknown cause,disperser,f,collar,,Didi_28362,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+82559,Elwha,Puma concolor,2019-02-06 00:00:00.000,2019-04-02 23:59:59.000,,Died of parvovirus,disperser,m,collar,,Elwha_82559,none,Lotek,Lotek LiteTrack 420,satellite
+82560,Didi,Puma concolor,2019-02-12 00:00:00.000,2020-04-09 23:59:59.000,,Died of unknown cause,disperser,f,collar,,Didi_82560,none,Lotek,Lotek LiteTrack 420,satellite
+82110,Katniss,Puma concolor,2019-02-12 15:01:00.000,2021-08-30 00:01:00.000,,,adult,f,collar,,Katniss_82110,none,Lotek,Lotek LiteTrack 420,satellite
+82558,Forrest,Puma concolor,2019-02-13 00:00:00.000,2020-01-05 23:59:59.000,,,disperser,m,collar,,Forrest_82558,none,Lotek,Lotek LiteTrack 420,satellite
+34638,Gypsy,Puma concolor,2019-02-13 00:00:00.000,2020-05-04 00:00:00.000,,Died from unknown toxin,adult,f,collar,,Gypsy_34638,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+28359,Hoko,Puma concolor,2019-03-16 00:00:00.000,2019-09-23 23:59:59.000,,,adult,m,collar,,Hoko_28359,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+84199,Frankie,Puma concolor,2019-04-04 00:00:00.000,2020-08-07 23:59:59.000,,,disperser,m,collar,,Frankie_84199,none,Lotek,Lotek LiteTrack 420,satellite
+34640,Elwha,Puma concolor,2019-04-18 00:00:00.000,2019-06-14 00:00:00.000,,Died of parvovirus,disperser,m,collar,,Elwha_34640,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+34639,Ike,Puma concolor,2019-04-20 00:00:00.000,2020-05-21 00:00:00.000,,State depredation,adult,m,collar,,Ike_34639,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+10312,Jasper,Puma concolor,2019-08-23 00:00:00.000,2020-10-15 23:59:59.000,,,adult,m,collar,,Jasper_10312,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+10316,Hoko,Puma concolor,2019-09-25 00:00:00.000,2020-11-20 23:59:59.000,,,adult,m,collar,,Hoko_10316,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+8994,Kiki,Puma concolor,2019-09-28 00:00:00.000,2020-10-13 23:59:59.000,,,adult,f,collar,Collar failed,Kiki_8994,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+28362,Lilu,Puma concolor,2019-12-03 00:00:00.000,2020-05-29 23:59:59.000,,,disperser,f,collar,,Lilu_28362,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+84653,Charlotte,Puma concolor,2019-12-03 20:00:00.000,2021-04-15 20:01:00.000,,,adult,f,collar,,Charlotte_84653,none,Lotek,Lotek LiteTrack 420,satellite
+85723,Lolli,Puma concolor,2019-12-10 22:00:00.000,2020-08-28 23:59:59.000,,,disperser,f,collar,Collar failed,Lolli_85723,none,Lotek,Lotek LiteTrack 420,satellite
+85725,Nolan,Puma concolor,2020-01-26 00:00:00.000,2020-07-15 00:00:00.000,,Swam 1.1km to island in the Puget Sound. Killed by hunter,disperser,m,collar,,Nolan_85725,none,Lotek,Lotek LiteTrack 420,satellite
+84856,Elena,Puma concolor,2020-01-26 00:00:00.000,2020-05-13 00:00:00.000,,,adult,f,collar,,Elena_84856,none,Lotek,Lotek LiteTrack 420,satellite
+85729,Bramble,Puma concolor,2020-01-29 00:00:00.000,2021-04-01 23:59:59.000,,,adult,f,collar,,Bramble_85729,none,Lotek,Lotek LiteTrack 420,satellite
+8990,Moses,Puma concolor,2020-01-29 00:00:00.000,2021-01-12 23:59:59.000,,,adult,m,collar,Collar failed,Moses_8990,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+85724,Lilu,Puma concolor,2020-05-30 02:01:00.000,2021-08-29 08:01:00.000,,,disperser,f,collar,,Lilu_85724,none,Lotek,Lotek LiteTrack 420,satellite
+85726,Nico,Puma concolor,2020-06-08 00:00:00.000,2021-02-11 23:59:59.000,,,adult,m,collar,,Nico_85726,none,Lotek,Lotek LiteTrack 420,satellite
+85973,Didi,Puma concolor,2020-09-30 00:00:00.000,2021-04-30 22:01:00.000,,Died of unknown cause,disperser,f,collar,,Didi_85973,none,Lotek,Lotek LiteTrack 420,satellite
+85974,Omar,Puma concolor,2020-11-05 00:00:00.000,2021-08-28 04:00:00.000,,,adult,m,collar,,Omar_85974,none,Lotek,Lotek LiteTrack 420,satellite
+85725,Papeesh,Puma concolor,2020-12-18 02:02:00.000,2021-08-29 02:01:00.000,,,disperser,m,collar,,Papeesh_85725,none,Lotek,Lotek LiteTrack 420,satellite
+86918,Qewicep,Puma concolor,2020-12-22 00:00:00.000,2021-03-23 00:00:00.000,State depredation,,adult,m,collar,,Qewicep_86918,none,Lotek,Lotek LiteTrack 420,satellite
+86614,NIck,Puma concolor,2020-12-26 21:01:00.000,2021-07-19 06:01:00.000,,,adult,m,collar,,NIck_86614,none,Lotek,Lotek LiteTrack 420,satellite
+42704,Ranger,Puma concolor,2021-01-19 02:00:00.000,2021-08-23 04:00:00.000,,,adult,m,collar,,Ranger_42704,none,Vectronic Aerospace,Vectronics Vertex Iridium,satellite
+85972,Michelle,Puma concolor,2021-01-24 00:00:00.000,2021-05-31 23:59:59.000,,State depredation,adult,f,collar,State depradation,Michelle_85972,none,Lotek,Lotek LiteTrack 420,satellite
+87526,Al,Puma concolor,2021-01-31 00:01:00.000,2021-09-26 14:01:00.000,Young dispersing male. Crossed I-5 and travelled south all the way to the Columbia River,,disperser,m,collar,,Al_87526,none,Lotek,Lotek LiteTrack 420,satellite
+87535,Aziah,Puma concolor,2021-02-05 14:00:00.000,2021-08-17 16:00:00.000,,,adult,m,collar,,Aziah_87535,none,Lotek,Lotek LiteTrack 420,satellite
+87525,Salish,Puma concolor,2021-02-09 00:00:00.000,2021-08-23 23:59:59.000,,,adult,f,collar,,Salish_87525,none,Lotek,Lotek LiteTrack 420,satellite
+87520,TaTaw,Puma concolor,2021-02-12 00:00:00.000,2021-06-08 16:01:00.000,,,adult,f,collar,,TaTaw_87520,none,Lotek,Lotek LiteTrack 420,satellite
+86615,Angie,Puma concolor,2021-02-13 00:01:00.000,2021-08-29 15:01:00.000,,,adult,f,collar,,Angie_86615,none,Lotek,Lotek LiteTrack 420,satellite
+86917,Bunny,Puma concolor,2021-02-13 04:01:00.000,2021-08-29 04:01:00.000,,,adult,f,collar,,Bunny_86917,none,Lotek,Lotek LiteTrack 420,satellite
+87518,Uma,Puma concolor,2021-02-14 00:00:00.000,2021-05-28 00:00:00.000,,Died of intestinal and respiratory infection,adult,f,collar,,Uma_87518,none,Lotek,Lotek LiteTrack 420,satellite
+86618,Lolli,Puma concolor,2021-02-17 00:00:00.000,2021-08-27 15:03:00.000,,,disperser,f,collar,,Lolli_86618,none,Lotek,Lotek LiteTrack 420,satellite
+87533,Casper,Puma concolor,2021-02-19 00:01:00.000,2021-08-28 22:00:00.000,,,adult,m,collar,,Casper_87533,none,Lotek,Lotek LiteTrack 420,satellite
+87523,Edgar,Puma concolor,2021-03-17 00:00:00.000,2021-04-04 23:59:59.000,,,disperser,m,collar,Collar failed,Edgar_87523,none,Lotek,Lotek LiteTrack 420,satellite
+87524,Vinnie,Puma concolor,2021-03-20 00:01:00.000,2021-08-29 02:00:00.000,,,adult,m,collar,,Vinnie_87524,none,Lotek,Lotek LiteTrack 420,satellite
+87531,Wynn,Puma concolor,2021-03-23 00:00:00.000,2021-05-13 23:59:59.000,,,adult,f,collar,,Wynn_87531,none,Lotek,Lotek LiteTrack 420,satellite
+87517,Francine,Puma concolor,2021-03-23 02:00:00.000,2021-08-29 04:01:00.000,,,disperser,f,collar,,Francine_87517,none,Lotek,Lotek LiteTrack 420,satellite
+87516,Damir,Puma concolor,2021-04-01 00:01:00.000,2021-08-26 16:00:00.000,,,disperser,m,collar,,Damir_87516,none,Lotek,Lotek LiteTrack 420,satellite
+87522,Bramble,Puma concolor,2021-04-01 22:01:00.000,2021-08-28 14:01:00.000,,,adult,f,collar,,Bramble_87522,none,Lotek,Lotek LiteTrack 420,satellite
+87527,Edgar,Puma concolor,2021-04-05 20:01:00.000,2021-08-29 00:01:00.000,,,disperser,m,collar,,Edgar_87527,none,Lotek,Lotek LiteTrack 420,satellite
+87534,Xander,Puma concolor,2021-04-17 22:00:00.000,2021-08-25 18:01:00.000,,,adult,m,collar,,Xander_87534,none,Lotek,Lotek LiteTrack 420,satellite
+39673,Ghost,Puma concolor,2021-04-23 12:00:00.000,2021-08-30 10:00:00.000,,,adult,m,collar,,Ghost_39673,none,Lotek,Lotek LiteTrack 420,satellite
+39661,Hans,Puma concolor,2021-04-27 00:02:00.000,2021-08-20 14:00:00.000,,,adult,m,collar,,Hans_39661,none,Lotek,Lotek LiteTrack 420,satellite
+82109,Freddy,Puma concolor,2021-05-08 21:00:00.000,2021-08-08 00:01:00.000,,,adult,m,collar,,Freddy_82109,none,Lotek,Lotek LiteTrack 420,satellite
+86918,Yoko,Puma concolor,2021-05-09 02:00:00.000,2021-08-29 02:01:00.000,,,adult,f,collar,,Yoko_86918,none,Lotek,Lotek LiteTrack 420,satellite
+87519,Wynn,Puma concolor,2021-05-15 08:01:00.000,2021-08-27 02:01:00.000,,,adult,f,collar,,Wynn_87519,none,Lotek,Lotek LiteTrack 420,satellite
+87521,Gypsy,Puma concolor,2021-05-25 22:01:00.000,2021-06-01 23:59:59.000,,Died from unknown toxin,adult,f,collar,Died,Gypsy_87521,none,Lotek,Lotek LiteTrack 420,satellite
+88787,Ishmael,Puma concolor,2021-08-18 01:00:00.000,2021-08-29 15:00:00.000,,,adult,m,collar,,Ishmael_88787,none,Lotek,Lotek LiteTrack 420,satellite
+88790,Jolene,Puma concolor,2021-08-18 06:00:00.000,2021-08-29 08:00:00.000,,,adult,f,collar,,Jolene_88790,none,Lotek,Lotek LiteTrack 420,satellite
+88786,Kingsley,Puma concolor,2021-08-19 03:00:00.000,2021-08-29 08:01:00.000,,,adult,m,collar,,Kingsley_88786,none,Lotek,Lotek LiteTrack 420,satellite
+86616,Diana,Puma concolor,2021-08-21 05:58:00.000,2021-08-29 00:01:00.000,,,adult,f,collar,,Diana_86616,none,Lotek,Lotek LiteTrack 420,satellite
+87521,Salish,Puma concolor,2021-08-25 06:01:00.000,2021-08-29 12:01:00.000,,,adult,f,collar,,Salish_87521,none,Lotek,Lotek LiteTrack 420,satellite
